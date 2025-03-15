@@ -56,8 +56,5 @@ https://fadliazharr.github.io/Music-Player/
 
 
 
-## Demo
-
-*(Add a link if hosted online, e.g., GitHub Pages, Netlify, or Vercel.)*  
 
 
